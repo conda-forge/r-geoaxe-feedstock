@@ -1,11 +1,11 @@
-About r-geoaxe
-==============
+About r-geoaxe-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geoaxe-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropenscilabs/geoaxe
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geoaxe-feedstock/blob/main/LICENSE.txt)
 
 Summary: Split 'geospatial' objects into pieces. Includes support for some spatial object inputs, 'Well-Known Text', and 'GeoJSON'.
 
